@@ -1,0 +1,51 @@
+h1 {
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.entrada {
+    display: flex;
+    justify-content: center;
+}
+
+.marcador {
+    float: right;
+    align-items: center;
+}
+
+text {
+    width: 300px;
+    margin: 5px;
+    align-items: center;
+    outline: none;
+}
+
+button {
+    background: red;
+    border: none;
+    width: 100px;
+    height: 30px;
+    align-items: center;
+}
+
+html {
+    background-image: url('https://i.pinimg.com/originals/90/f4/ef/90f4ef99b17e72ed0a09710060e4bb80.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.conteudo {
+    color: white;
+    text-transform: uppercase;
+    padding: 10px;
+    margin: auto;
+    margin-top: 15px;
+    width: 600px;
+    font-size: 1.2em;
+    font-weight: 900;
+    background-color: red;
+}
