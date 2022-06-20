@@ -1,0 +1,14 @@
+# Todo-list
+
+Todo list feita em javascript 🖤🖤
+
+<img src="todo-list.png">
+
+<br>
+
+<h2>projeto simples para testar meus conhecimentos em javascript, mas simples não significa mal feito
+fiz com carinho e dedicação e acima de tudo é um projeto útil ❤💜❤</h2>
+
+<br>
+<br>
+Direitos autorais by<h3>Gustavo Duarte</h3>
