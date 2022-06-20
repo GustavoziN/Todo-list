@@ -2,7 +2,7 @@
 
 Todo list feita em javascript 🖤🖤
 
-<img src="todo-list.png">
+<img src="assets/todo-list.png">
 
 <br>
 
