@@ -7,7 +7,7 @@ Todo list feita em javascript 🖤🖤
 <br>
 
 <h2>projeto simples para testar meus conhecimentos em javascript, mas simples não significa mal feito
-fiz com carinho e dedicação e acima de tudo é um projeto útil ❤💜❤</h2>
+fiz com carinho e dedicação ❤💜❤</h2>
 
 <br>
 <br>
